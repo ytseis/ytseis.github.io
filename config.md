@@ -1,7 +1,10 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
-@def website_title = "ytseis's website" @def author = "ytseis" @def website_descr = "website" @def website_url = "https://ytseis.github.io"
+@def website_title = "ytseis's website"
+@def author = "ytseis"
+@def website_descr = "website"
+@def website_url = "https://ytseis.github.io"
 @def mintoclevel = 2
 
 +++
