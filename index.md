@@ -1,6 +1,6 @@
 @def title = "ytseis's website"
 
-ytseis のホームページへようこそ。
+# ytseis のホームページへようこそ
 
 地震学、Julia言語、リコーダーに興味があります。
 
