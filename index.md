@@ -1,5 +1,4 @@
 @def title = "YTSEIS'S WEBSITE"
-@def tags = ["syntax", "code"]
 
 \tableofcontents <!-- you can use \toc as well -->
 
@@ -9,4 +8,3 @@ ytseis のホームページへようこそ。
 
 GitHub: [https://github.com/ytseis](https://github.com/ytseis)
 Twitter: [https://twitter.com/yt_ogan](https://twitter.com/yt_ogan)
-
