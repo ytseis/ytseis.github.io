@@ -1,4 +1,0 @@
-# test page
-
-hoge \
-piyo
