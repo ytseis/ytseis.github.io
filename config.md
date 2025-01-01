@@ -1,12 +1,10 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
-+++
-@def author = "ytseis"
-@def website_descr = "website"
-@def website_url = "https://ytseis.github.io"
-mintoclevel = 2
+@def website_title = "ytseis's website" @def author = "ytseis" @def website_descr = "website" @def website_url = "https://ytseis.github.io"
+@def mintoclevel = 2
 
++++
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
 # please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
 # prepath = "yourproject"
@@ -23,7 +21,6 @@ website_title = "Franklin Template"
 website_descr = "Example website using Franklin"
 website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
 +++
-
 <!--
 Add here global latex commands to use throughout your pages.
 -->

@@ -1,4 +1,4 @@
-@def title = "YTSEIS'S WEBSITE"
+@def title = "ytseis's website"
 
 # ytseis のホームページへようこそ。
 
