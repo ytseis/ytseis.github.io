@@ -1,9 +1,10 @@
 @def title = "Profile"
 
-# 学歴
+<!-- # 学歴
 
 - 2021年4月-現在 \
-  東北大学 理学部宇宙地球物理学科
+  某大学 理学部
+-->
 
 # 興味
 
@@ -15,10 +16,10 @@
 
 ## Julia
 
-学部4年からJuliaを主に使用しています。
-学生実験ではPythonを使っていましたが、Juliaは書きやすくて早いという噂を聞き、研究室配属の時期に入門しました。 \
+学部4年から Julia言語 を主に使用しています。
+学生実験ではPythonを使っていましたが、Julia言語 は書きやすくて早いという噂を聞き、研究室配属の時期に入門しました。 \
 地震波形の解析には [Seis.jl](https://github.com/anowacki/Seis.jl) を使用しています。
-Pythonのパッケージ [ObsPy](https://github.com/obspy/obspy) は少し使ったことがありますが、Seis.jl はより簡単にプログラムを書けると思っています。
+Pythonの [ObsPy](https://github.com/obspy/obspy) は少し触ったことがあるだけですが、Seis.jl はより簡単にプログラムを書けると思っています。
 
 # 趣味
 
