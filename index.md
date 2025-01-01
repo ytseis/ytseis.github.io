@@ -1,7 +1,5 @@
 @def title = "YTSEIS'S WEBSITE"
 
-\tableofcontents <!-- you can use \toc as well -->
-
 ytseis のホームページへようこそ。
 
 地震学、Julia言語、リコーダー音楽に興味があります。
