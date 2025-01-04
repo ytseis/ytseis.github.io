@@ -3,19 +3,25 @@
 
 <url>
     <loc>https://ytseis.github.io/index.html</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-01-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://ytseis.github.io/src/how2drawRaypath/index.html</loc>
+    <lastmod>2025-01-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://ytseis.github.io/src/juliaSeismology/index.html</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-01-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://ytseis.github.io/src/profile/index.html</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-01-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
