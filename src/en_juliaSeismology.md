@@ -62,9 +62,12 @@ Synthetic Seismograms
   - [SeisDownload.jl](https://github.com/kura-okubo/SeisDownload.jl)
   - [NoiseJul.jl](https://github.com/kura-okubo/NoiseJul.jl): SeisIO、SeisNoise、SeisDownload、SeisConvert、SeisXcorrelation、SeisRemoveEQ、~SeisBeamforming~
 
-- [Xiaotao Yang]
+- Xiaotao Yang
   - [SeicConvert.jl](https://github.com/xtyangpsp/SeisConvert.jl): SAC/SEGY -> JLD2 -> SAC
 
 
 
 - [SPEAR](https://github.com/thehalfspace/Spear): SPectral element based EARthquake cycle simulator
+- [SeismicWaves.jl](https://github.com/GinvLab/SeismicWaves.jl)
+- [SAC.jl](https://github.com/kura-okubo/SAC.jl)
+- [FWI.jl](https://github.com/JuliaInv/FWI.jl)
