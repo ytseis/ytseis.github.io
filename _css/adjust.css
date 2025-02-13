@@ -7,9 +7,9 @@
 
 @media (min-width: 1024px) {
   .franklin-content {
-    width: 60%;
-    padding-left: 5%;
-    padding-right: 5%;
+    width: 1024px;
+    padding-left: 0%;
+    padding-right: 0%;
   }
 }
 
