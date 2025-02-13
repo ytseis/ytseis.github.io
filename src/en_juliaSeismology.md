@@ -8,6 +8,25 @@ Julia 言語で地震波形データの解析をする際の日本語の参考�
 
 Julia で書かれた地震学関係のパッケージを私が知っている範囲でまとめます。他にもあれば教えてください。
 
+Data Request Tools
+- [SeisRequests.jl]
+- [SeisDownload.jl]
+
+Seismic Data Format Conversion
+- [Seis.jl]
+- [SeisConvert.jl]
+- [SeisMain.jl]
+
+Seismic Data Processing
+
+Plotting
+
+Visualization
+
+Traveltime and Ray Tracing
+
+Synthetic Seismograms
+
 - [Andy Nowacki](https://github.com/anowacki) さん
   - [Seis.jl](https://github.com/anowacki/Seis.jl): SAC・miniSEED の読み書きと基本的な処理
   - [SeisTau.jl](https://github.com/anowacki/SeisTau.jl): 走時の計算、ピックの追加
@@ -45,3 +64,7 @@ Julia で書かれた地震学関係のパッケージを私が知っている�
 
 - [Xiaotao Yang]
   - [SeicConvert.jl](https://github.com/xtyangpsp/SeisConvert.jl): SAC/SEGY -> JLD2 -> SAC
+
+
+
+- [SPEAR](https://github.com/thehalfspace/Spear): SPectral element based EARthquake cycle simulator
