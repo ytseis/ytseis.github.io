@@ -13,7 +13,7 @@ pkg> add https://github.com/anowacki/Geodesics.jl https://github.com/anowacki/Se
 ```julia
 julia> using Seis
 ```
-としてやると Seis.jl を使えるようになります。
+を実行すると Seis.jl を使えるようになります。
 
 ## 波形を読み込む
 
@@ -35,7 +35,7 @@ t = sample_data()
 fieldnames(Trace)
 ```
 
-それぞれの property は `t.property` でアクセスできます。例えば
+`Seis.Trace` 型のオブジェクトの property は `t.property` でアクセスできます。例えば
 ```>
 t.sta
 t.sta.lon
