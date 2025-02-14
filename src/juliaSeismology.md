@@ -71,3 +71,4 @@ Synthetic Seismograms
 - [SeismicWaves.jl](https://github.com/GinvLab/SeismicWaves.jl)
 - [SAC.jl](https://github.com/kura-okubo/SAC.jl)
 - [FWI.jl](https://github.com/JuliaInv/FWI.jl)
+- [ADSeismic.jl](https://github.com/kailaix/ADSeismic.jl)
