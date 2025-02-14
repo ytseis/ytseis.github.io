@@ -303,9 +303,12 @@ code {
 /* font-size: 90%; } */
 
 .hljs {
-  font-size: var(--small);
-  line-height: 1.35em;
-  border-radius: 10px;
+    font-size: var(--small);
+    line-height: 1.35em;
+    border-radius: 10px;
+    border: 1px solid #1e1e1e;
+    /*color: #1e1e1e;  font color in repl */
+    /*background: white;  background color in repl */
 }
 
 .hljs-meta { font-weight: bold;}

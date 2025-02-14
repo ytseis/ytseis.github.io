@@ -815,7 +815,8 @@ td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: 0.8em;
-  background: #fafafa;
+  color: #1e1e1e;
+  background: #ebebeb;
   border-radius: 4px;
 }
 
@@ -837,7 +838,7 @@ hr {
   display: block;
   margin: 1em 0;
   border: 0;
-  border-top: 1px solid #f2f3f3;
+  border-top: 1px solid #f2f3f2;
 }
 
 ul li,
