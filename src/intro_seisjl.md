@@ -2,6 +2,11 @@
 
 # Seis.jl の紹介
 
+```!
+#hideall
+using Pkg; Pkg.activate("../")
+```
+
 <!--```julia:./intro_seisjl/releasedate
 #hideall
 using Dates
