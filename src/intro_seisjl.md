@@ -4,7 +4,7 @@
 
 ```!
 #hideall
-using Pkg; Pkg.activate("../")
+using Pkg; Pkg.activate(".")
 ```
 
 <!--```julia:./intro_seisjl/releasedate
