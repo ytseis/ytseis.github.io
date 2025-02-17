@@ -4,5 +4,5 @@
 
 地震学、Julia言語、リコーダーに興味があります。
 
-- GitHub: [https://github.com/ytseis](https://github.com/ytseis)
-- Twitter: [https://twitter.com/yt_ogan](https://twitter.com/yt_ogan)
+- Twitter: ~~~<a href="https://twitter.com/ytseis" target="_black">https://twitter.com/ytseis</a>~~~
+- GitHub: ~~~<a href="https://github.com/ytseis" target="_blank">https://github.com/ytseis~~~

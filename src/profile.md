@@ -3,7 +3,7 @@
 # 学歴
 
 - 2021年4月-現在 \
-  某大学 理学部 
+  某大学 理学部
 
 # トピック
 
@@ -15,8 +15,8 @@
 - Julia言語 \
   2024年からJulia言語を主に使用しています。
   学生実験ではPythonを使っていましたがJulia言語は書きやすくて早いという噂を聞き、研究室配属の時期に入門しました。 \
-  地震波形の解析には [Seis.jl](https://github.com/anowacki/Seis.jl) を使用しています。
-  Pythonの[ObsPy](https://github.com/obspy/obspy)は少し触ったことがあるだけですが、Seis.jlはより簡単にプログラムを書けると思っています。
+  地震波形の解析には~~~<a href="https://github.com/anowacki/Seis.jl" target="_blank">Seis.jl</a>~~~を使用しています。
+  Pythonの~~~<a href="https://github.com/obspy/obspy" blank="_blank">ObsPy</a>~~~は少し触ったことがあるだけですが、Seis.jlはより簡単にプログラムを書けると思っています。
 
 <!--
 # 趣味
